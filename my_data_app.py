@@ -4,7 +4,7 @@ import pandas as pd
 import subprocess
 import time
 import scrapper as scr
-from ydata_profiling import ProfileReport
+from ydata-profiling import ProfileReport
 
 # Header section
 st.markdown(
