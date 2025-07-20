@@ -1,4 +1,4 @@
-numpy
+ydata_profiling
 bs4
 requests
 scipy
@@ -7,4 +7,4 @@ pandas
 streamlit
 seaborn
 pybase64
-
+pyplot_express
