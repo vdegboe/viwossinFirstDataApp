@@ -3,8 +3,9 @@ import streamlit.components.v1 as components
 import pandas as pd
 import subprocess
 import time
-import scrapper as scr
 from pandas_profiling import ProfileReport
+import scrapper as scr
+
 
 # Header section
 st.markdown(
